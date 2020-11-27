@@ -1,0 +1,2 @@
+# gitIgnoreTry
+trying
